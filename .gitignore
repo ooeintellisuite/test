@@ -321,6 +321,24 @@ celerybeat.pid
 .turbo
 .vercel
 
+# Terraform
+.terraform/
+*.tfplan
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# SaltStack
+*.salt.bak
+*.pyd
+*.pyo
+
+# Ansible
+.ansible/
+*.retry
+*.vault
+*.log
+
 # Misc Frameworks
 .fake/
 

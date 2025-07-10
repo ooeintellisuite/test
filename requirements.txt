@@ -1,0 +1,5 @@
+# Python dependencies
+black
+isort
+flake8
+jupyter
