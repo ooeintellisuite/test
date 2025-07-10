@@ -165,6 +165,11 @@ ipch/
 !/.vscode/tasks.json
 !/.vscode/launch.json
 !/.vscode/extensions.json
+!/.vscode/extensions.general.json
+!/.vscode/extensions.typescript.json
+!/.vscode/extensions.devops.json
+!/.vscode/extensions.python.json
+!/.vscode/extensions.csharp.json
 # ---
 *.code-workspace
 *.suo

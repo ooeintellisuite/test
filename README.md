@@ -24,9 +24,7 @@ This repository is for testing various IDE configurations and best practices for
 - `.gitignore`: Specifies intentionally untracked files to ignore.
 
 
-## Python
+## Extensions
 
-Need to use flake8 for linting
-Use these two extensions in your IDE if available
- - "ms-python.python", "ms-python.black-formatter"
-
+Rename the extensions.language.json file to extensions.json for your particular language and delete what you don't need
+Add in extensions.general.json for all languages
