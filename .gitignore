@@ -355,3 +355,7 @@ celerybeat.pid
 *.ndf
 *.jfm
 healthchecksdb
+
+# Playwright tests
+/test-results/
+/playwright-report/
