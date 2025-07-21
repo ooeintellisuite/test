@@ -332,6 +332,7 @@ celerybeat.pid
 *.tfstate
 *.tfstate.backup
 .terraform.lock.hcl
+*.tfvars
 
 # SaltStack
 *.salt.bak
