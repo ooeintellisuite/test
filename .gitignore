@@ -356,3 +356,7 @@ celerybeat.pid
 *.jfm
 healthchecksdb
 *.bacpac
+
+# Playwright tests
+/test-results/
+/playwright-report/

@@ -1,9 +1,4 @@
 {
-  // Prettier configuration for consistent code formatting.
-  // This file primarily handles JavaScript, TypeScript, HTML, CSS, and JSON.
-  // For other languages like Python, C#, Terraform, Salt, and Ansible,
-  // dedicated formatters (e.g., Black, dotnet format, terraform fmt) should be used.
-
   "printWidth": 100,
   "tabWidth": 2,
   "useTabs": false,
