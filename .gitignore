@@ -355,3 +355,4 @@ celerybeat.pid
 *.ndf
 *.jfm
 healthchecksdb
+*.bacpac
