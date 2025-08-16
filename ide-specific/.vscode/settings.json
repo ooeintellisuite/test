@@ -7,9 +7,6 @@
     "source.fixAll"
   ],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.tabSize": 2,
-  "files.trimTrailingWhitespace": true,
-
   // Language-Specific Settings
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter",
