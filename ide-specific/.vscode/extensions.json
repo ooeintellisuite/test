@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.black-formatter",
+    "ms-python.debugpy",
+    "ms-python.vscode-pylance",
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode",
+    "CucumberOpen.cucumber-official",
+    "vivaxy.vscode-conventional-commits",
+    "redhat.vscode-yaml",
+    "redhat.vscode-xml"
+  ]
+}
